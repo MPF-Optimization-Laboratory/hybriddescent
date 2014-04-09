@@ -1,0 +1,1 @@
+A MATLAB implementation of the hybrid descent method for linear least squares problems.  This also contains an implementation of gradient descent as well as incremental gradient.  To run, type LSQall at the MATLAB prompt.  Parameter values can be tweaked in the LSQall file.
